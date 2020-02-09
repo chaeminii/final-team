@@ -16,7 +16,7 @@
 
 ## ERD
 
-![](profile_images/erd.PNG)
+![](profile_images/erdd.PNG)
 
 ## 나의 구현 기능
 
