@@ -16,4 +16,4 @@
 
 ## ERD
 
-![](profile_images/doublecome ERD.PNG)
+![](profile_images/erd.PNG)
