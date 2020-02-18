@@ -59,4 +59,4 @@
 
 ### 후기삭제
 
-![](profile_images/.gif)
+![](profile_images/delete.gif)
