@@ -26,4 +26,37 @@
 * 구매내역 - 입찰, 거래 중, 거래완료, 거래 취소/신고 분류
 * 후기 - 등록, 수정, 삭제, 별점, 무한페이징
 
-## 판매내역
+## 거래내역
+
+### 판매내역
+
+![](profile_images/sale.gif)
+
+### 거래내역
+
+![](profile_images/purchase.gif)
+
+### 거래완료
+
+![](profile_images/completion.gif)
+
+### 거래 신고/취소
+
+![](profile_images/cance_report.gif)
+
+## 후기
+
+### 후기목록
+![](profile_images/list.gif)
+
+### 후기등록
+![](profile_images/insert1.gif)
+![](profile_images/insert2.gif)
+
+### 후기수정
+
+![](profile_images/update.gif)
+
+### 후기삭제
+
+![](profile_images/.gif)
