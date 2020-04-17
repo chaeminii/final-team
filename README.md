@@ -39,7 +39,7 @@
 ![](profile_images/sale.gif)
 * 판매하기위해 등록한 게시글의 상태에 따라 게시글 분류
 
-### 거래내역
+### 내역
 
 ![](profile_images/purchase.gif)
 * 구매하기위해 입찰한 게시글의 상태에 따라 게시글 분류
